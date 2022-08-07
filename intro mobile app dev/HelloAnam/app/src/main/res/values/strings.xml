@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloAnam</string>
+    <string name="change_text_color">Change text color</string>
+    <string name="hello_from_anam">Hello from Anam</string>
+</resources>
